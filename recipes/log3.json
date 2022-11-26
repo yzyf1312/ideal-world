@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "yf:craft10"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "##"
+        ],
+        "key": {
+            "#": {
+                "item": "log",
+                "data": 2
+            }
+        },
+        "result": {
+            "item": "log",
+            "data": 3,
+            "count": 2
+        }
+    }
+}
