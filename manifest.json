@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "by:依凡 这个addob超有用的(doge)",
+        "name": "理想的世界",
+        "uuid": "130a6d76-ce22-2dd2-bcf6-b44341b40956",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "子资源包简介",
+            "type": "data",
+            "uuid": "c1c6ca2e-67df-9ade-9ab5-dc2638ee4790",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
