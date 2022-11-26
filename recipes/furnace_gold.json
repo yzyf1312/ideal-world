@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "yf:furnace3"
+        },
+        "tags": [
+            "campfire",
+            "soul_campfire"
+        ],
+        "input": "raw_gold",
+        "output": "gold_ingot"
+    }
+}
