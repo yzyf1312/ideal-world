@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "yf:furnace2"
+        },
+        "tags": [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input": "raw_copper_block",
+        "output": "copper_block"
+    }
+}
