@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "yf:furnace1"
+        },
+        "tags": [
+            "campfire",
+            "soul_campfire"
+        ],
+        "input": "raw_copper",
+        "output": "copper_ingot"
+    }
+}
