@@ -1,0 +1,16 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "yf:furnace5"
+        },
+        "tags": [
+            "furnace",
+            "blast_furnace",
+            "campfire",
+            "soul_campfire"
+        ],
+        "input": "raw_iron",
+        "output": "iron_ingot"
+    }
+}
