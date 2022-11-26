@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "yf:craft15"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "##"
+        ],
+        "key": {
+            "#": {
+                "item": "warped_stem"
+            }
+        },
+        "result": {
+            "item": "crimson_stem",
+            "count": 2
+        }
+    }
+}

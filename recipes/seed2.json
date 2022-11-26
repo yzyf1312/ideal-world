@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "yf:craft23"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "pumpkin_seeds"
+            }
+        },
+        "result": {
+            "item": "melon_seeds"
+        }
+    }
+}

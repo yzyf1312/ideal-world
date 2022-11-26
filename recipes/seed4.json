@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "yf:craft25"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "beetroot_seeds"
+            }
+        },
+        "result": {
+            "item": "wheat_seeds"
+        }
+    }
+}
